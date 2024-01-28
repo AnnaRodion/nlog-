@@ -1,0 +1,14 @@
+C:\Users\Анна\source\repos\Nlog1\Nlog1\bin\Debug\Nlog1.exe.config
+C:\Users\Анна\source\repos\Nlog1\Nlog1\bin\Debug\Nlog1.exe
+C:\Users\Анна\source\repos\Nlog1\Nlog1\bin\Debug\Nlog1.pdb
+C:\Users\Анна\source\repos\Nlog1\Nlog1\bin\Debug\NLog.dll
+C:\Users\Анна\source\repos\Nlog1\Nlog1\bin\Debug\NLog.xml
+C:\Users\Анна\source\repos\Nlog1\Nlog1\obj\Debug\Nlog1.csproj.AssemblyReference.cache
+C:\Users\Анна\source\repos\Nlog1\Nlog1\obj\Debug\Nlog1.Form1.resources
+C:\Users\Анна\source\repos\Nlog1\Nlog1\obj\Debug\Nlog1.Properties.Resources.resources
+C:\Users\Анна\source\repos\Nlog1\Nlog1\obj\Debug\Nlog1.csproj.GenerateResource.cache
+C:\Users\Анна\source\repos\Nlog1\Nlog1\obj\Debug\Nlog1.csproj.CoreCompileInputs.cache
+C:\Users\Анна\source\repos\Nlog1\Nlog1\obj\Debug\Nlog1.csproj.CopyComplete
+C:\Users\Анна\source\repos\Nlog1\Nlog1\obj\Debug\Nlog1.exe
+C:\Users\Анна\source\repos\Nlog1\Nlog1\obj\Debug\Nlog1.pdb
+C:\Users\Анна\source\repos\Nlog1\Nlog1\bin\Debug\nlog.config
